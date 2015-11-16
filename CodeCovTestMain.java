@@ -5,7 +5,7 @@ package code_coverage_test_java;
 public class CodeCovTestMain {
 	
     public static void main(String[] args) {
-        int a = 10;
+       /* int a = 10;
         int b = 20;
         int i = 0;
         int mult = 0;
@@ -35,7 +35,7 @@ public class CodeCovTestMain {
         		System.out.println(mult);
         	}
         }
-        
+        */
     }
 
 }
