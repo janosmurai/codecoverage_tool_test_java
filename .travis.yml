@@ -3,6 +3,7 @@ sudo: false # faster builds
 
 before_install:
   - pip install --user codecov
+  - cd java
 
 after_success:
   - codecov
