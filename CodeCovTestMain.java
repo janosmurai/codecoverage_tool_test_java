@@ -1,5 +1,7 @@
 package code_coverage_test_java;
 
+//Code coverage test
+
 public class CodeCovTestMain {
 	
     public static void main(String[] args) {
